@@ -45,6 +45,9 @@
 <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
   <img align="left" alt="Android Studio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" style="padding-right:10px;" />
 </a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+  <img align="left" alt="Firebase" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" style="padding-right:10px;" />
+</a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
   <img align="left" alt="VS Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 </a>
